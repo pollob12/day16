@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0; 
+
+} 
+.div1{
+    
+        background: rgb(49, 12, 199);
+        height: 200px;
+        width: 150px; 
+        border: 1px 3px solid;
+        border-radius:40px 0; 
+        color: rgb(238, 11, 11); 
+        margin-left: 150px; 
+   
+}  
+h2{
+    text-align: center;
+    color: green; 
+    box-shadow: 1px 1px 6px red;  
+    display: inline-block;
+    padding-left: 300px; 
+}
+
+.potaka{ 
+     height: 400px; 
+     width: 600px;
+     background: green;
+    text-align: center;
+    margin-left: 300px; 
+    padding: 40px;  
+ 
+
+}
+
+.lal-ongso{ 
+    background: red;
+
+    height: 300px;
+    width: 240px; 
+    display: inline-block;   
+    
+    border-radius: 50%; 
+   
+} 
+
+.andhaa{
+    background: rgb(238, 146, 146);
+    height: 300px;
+    width: 150px; 
+    border-radius: 50%; 
+    margin-left: 300px;
+    border: 5px solid rgb(238, 11, 11);  
+    text-align: center; 
+} 
+
+.kusom{
+    background: red; 
+    height: 200px; 
+    width: 90px; 
+    border-radius: 50%; 
+    display: inline-block; 
+   
+}
